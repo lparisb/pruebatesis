@@ -1,0 +1,10 @@
+objectid,filename,youtubeid,title,date,description,subject,location,type,format,language,rights
+coll001,CB_sonidobotellapapel.mp3,,Botella papel,1974,El grito de la señora que compraba botella y papel,Teusaquillo;vendedores;comercio,Teusaquillo,sound,audio/mp3,es,Uso restringido
+coll002,CB+LR_sonidokaliman.mp3,,Kalimán,1974,"Sobre la radionovela Kalimán, que se escuchaba en la radio colombiana entre 1963 y 1991.",radio;radionovela;medios,Teusaquillo,sound,audio/mp3,es,Uso restringido
+coll003,MG_sonidobuscolegio.mp3,,El bus del colegio,1965,"El sonido del bus en Chapinero, cuando era el limite norte de Bogotá",Chapinero;transporte,Chapinero,sound,audio/mp3,es,Uso restringido
+coll004,MPB_sonidostrolley.mp3,,Sonidos del Trolley en Sears - El Campin,1970,Sonidos particulares del Trolleybus,Teusaquillo;transporte,Teusaquillo,sound,audio/mp3,es,Uso restringido
+coll005,MPB+MG_sonidokaliman.mp3,,Kalimán,1967,"Sobre la radionovela Kalimán, que se escuchaba en la radio colombiana entre 1963 y 1991.",Teusaquillo;Chapinero;radio;radionovela;medios,Teusaquillo,sound,audio/mp3,es,Uso restringido
+coll006,EB_sonidoolla.mp3,,La olla exprés,1972,"El sonido de la olla exprés, característico de las casas bogotanas",Teusaquillo;artefacto,Teusaquillo,sound,audio/mp3,es,Uso restringido
+coll007,EB_sonidoconstruccioncampin.mp3,,Construcción Coliseo El Campín,1970,Los sonidos de la construcción del coliseo cubierto El Campín,Chapinero;urbanistica;cultura,Chapinero,sound,audio/mp3,es,Uso restringido
+coll008,EB_sonidoradiotequendama.mp3,,Radio Tequendama y El Patico Discotequero,1974,"La importancia de Radio Tequendama y el programa ""El Patico Discotequero"" para escuchar la música del momento.",Teusaquillo;radio;musica,Teusaquillo,sound,audio/mp3,es,Uso restringido
+coll009,,https://www.youtube.com/watch?v=gQaxFelENG4&ab_channel=LilianaPar%C3%ADsBorda,Prueba Youtube,2021,Prueba para revisar archivo linkeado,prueba,no,video,video/mpeg,es,Uso restringido

@@ -4,13 +4,13 @@ user,Entrevistado,
 date_listened,Fecha aproximada de escucha,
 description,Descripción,
 subject,Categorías,true
-location,Ubicación
-latitude,Latitud
-longitude,Longitud
+location,Ubicación,
+latitude,Latitud,
+longitude,Longitud,
 creator,Creador,
 date,Fecha de creación,
 source,Fuente,
-identifier,Source Identifier,,
+identifier,Source Identifier,
 type,Tipo,
 format,Formato,
 rights,Derechos,

@@ -1,14 +1,15 @@
 field,display_name,browse_link,external_link
 title,Título,
-creator,Creador,
-date,Fecha de creación,
 user,Entrevistado,
+date_listened,Fecha aproximada de escucha,
 description,Descripción,
 subject,Categorías,true
 location,Ubicación
 latitude,Latitud
 longitude,Longitud
-source,Source
+creator,Creador,
+date,Fecha de creación,
+source,Fuente,
 identifier,Source Identifier,,
 type,Tipo,
 format,Formato,

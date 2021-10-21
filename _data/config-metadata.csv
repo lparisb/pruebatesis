@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 title,Título,
 creator,Creador,
 date,Fecha de creación,
+user,Entrevistado
 description,Descripción,
 subject,Categorías,true
 location,Ubicación
